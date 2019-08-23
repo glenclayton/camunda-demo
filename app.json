@@ -1,0 +1,8 @@
+{
+  "env" : {
+    "CAMUNDA_PWD" : {
+      "description" : "Password for demo user",
+      "required" : true
+    }
+  }
+}
